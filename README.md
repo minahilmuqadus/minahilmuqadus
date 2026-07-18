@@ -55,3 +55,10 @@ A growing collection of Python projects documenting my learning journey toward A
   <img src="https://github-readme-stats.vercel.app/api?username=minahilmuqadus&show_icons=true&theme=github_dark&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilmuqadus&layout=compact&theme=github_dark&hide_border=true" height="170" />
 </p>
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/minahil-muqadus
+- 📧 Email: minahilmuqadus7@gmail.com
+
+I'm always open to connecting with fellow learners, students, and professionals who are passionate about technology, Artificial Intelligence, and Software Engineering.

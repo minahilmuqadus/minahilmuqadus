@@ -57,3 +57,7 @@ A growing collection of Python projects documenting my learning journey toward A
 - 📧 Email: minahilmuqadus7@gmail.com
 
 I'm always open to connecting with fellow learners, students, and professionals who are passionate about technology, Artificial Intelligence, and Software Engineering.
+
+---
+
+⭐ Thanks for visiting my profile! I'm continuously learning, building, and improving one project at a time.

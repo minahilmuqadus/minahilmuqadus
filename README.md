@@ -27,3 +27,24 @@ I enjoy learning by building real projects, improving my programming skills, and
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+## 📂 Featured Projects
+
+### 💰 Am I Being Underpaid?
+A Python command-line application that calculates real-time employee earnings while demonstrating modular programming, input validation, and software engineering principles.
+
+🔗 Repository: https://github.com/minahilmuqadus/personal-projects
+
+---
+
+### 🎓 Student Management System
+A Python-based CRUD application that manages student records using JSON storage, file handling, exception handling, and a menu-driven interface.
+
+🔗 Repository: https://github.com/minahilmuqadus/python-mini-projects
+
+---
+
+### 📚 Python Mini Projects
+A growing collection of Python projects documenting my learning journey toward Artificial Intelligence, Machine Learning, and Software Engineering through hands-on practice.
+
+🔗 Repository: https://github.com/minahilmuqadus/python-mini-projects

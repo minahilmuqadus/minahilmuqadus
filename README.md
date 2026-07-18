@@ -11,3 +11,10 @@ I enjoy learning by building real projects, improving my programming skills, and
 - 🚀 Building hands-on projects to strengthen problem-solving and programming skills
 - 📚 Documenting my learning journey through GitHub and continuous project development
 - 🎯 Long-term goal: Build intelligent software systems and pursue a career in AI/ML
+
+## 🚀 Current Focus
+
+- 🌱 Learning Python, Software Engineering, and the fundamentals of Artificial Intelligence & Machine Learning
+- 💼 Building practical command-line applications and documenting my progress through GitHub
+- 📖 Strengthening problem-solving skills by creating real-world projects from scratch
+- 🔄 Continuously improving code quality, documentation, and Git workflow

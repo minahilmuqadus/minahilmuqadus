@@ -1,63 +1,100 @@
 # Hi, I'm Minahil Muqadus 👋
 
-Computer Science student with a growing interest in Artificial Intelligence, Machine Learning, and Software Engineering.
+Computer Science student building practical software while preparing for a career in Artificial Intelligence and Machine Learning.
 
-I enjoy learning by building real projects, improving my programming skills, and documenting my journey through GitHub. Every repository reflects a step forward in becoming a better engineer.
+I believe the best way to learn is by building real projects. Every repository on my GitHub represents another step in my journey toward becoming an AI Engineer.
+
+---
 
 ## 🎓 About Me
 
 - 💻 Computer Science student at the National University of Modern Languages (NUML)
-- 🤖 Currently learning Python, Software Engineering, and Artificial Intelligence
-- 🚀 Building hands-on projects to strengthen problem-solving and programming skills
-- 📚 Documenting my learning journey through GitHub and continuous project development
+- 🤖 Currently learning Python, Software Engineering, Artificial Intelligence, and Machine Learning
+- 🚀 Building practical projects to strengthen programming and problem-solving skills
+- 📚 Documenting my learning journey through GitHub
 - 🎯 Long-term goal: Build intelligent software systems and pursue a career in AI/ML
+
+---
 
 ## 🚀 Current Focus
 
-- 🌱 Learning Python, Software Engineering, and the fundamentals of Artificial Intelligence & Machine Learning
-- 💼 Building practical command-line applications and documenting my progress through GitHub
-- 📖 Strengthening problem-solving skills by creating real-world projects from scratch
-- 🔄 Continuously improving code quality, documentation, and Git workflow
+- 🌱 Strengthening Python fundamentals through real-world projects
+- 🏗️ Learning professional software development practices
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 📖 Improving code quality, Git workflow, and project documentation
+- 💡 Building portfolio-worthy applications instead of tutorial projects
+
+---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+- **Languages:** Python, C++, HTML
+- **Tools:** Git, GitHub
+- **Game Development:** Unreal Engine (Blueprints)
+- **Currently Learning:** Artificial Intelligence, Machine Learning
 
-## 📂 Featured Projects
+---
 
-### 💰 Am I Being Underpaid?
+# 📂 Featured Projects
+
+## 🧠 Echo – Life Decision Simulator
+
+A modular Python terminal application that simulates how daily habits influence long-term goals through an interactive "Future Echo" experience.
+
+**Highlights**
+- Modular architecture
+- Input validation
+- Interactive terminal UI
+- Time investment simulation
+- Professional Git workflow
+
+🔗 Repository:  
+https://github.com/minahilmuqadus/echo-life-simulator
+
+---
+
+## 💰 Am I Being Underpaid?
+
 A Python command-line application that calculates real-time employee earnings while demonstrating modular programming, input validation, and software engineering principles.
 
-🔗 Repository: https://github.com/minahilmuqadus/personal-projects
+🔗 Repository:  
+https://github.com/minahilmuqadus/personal-projects
 
 ---
 
-### 🎓 Student Management System
+## 🎓 Student Management System
+
 A Python-based CRUD application that manages student records using JSON storage, file handling, exception handling, and a menu-driven interface.
 
-🔗 Repository: https://github.com/minahilmuqadus/python-mini-projects
+🔗 Repository:  
+https://github.com/minahilmuqadus/python-mini-projects
 
 ---
 
-### 📚 Python Mini Projects
+## 📚 Python Mini Projects
+
 A growing collection of Python projects documenting my learning journey toward Artificial Intelligence, Machine Learning, and Software Engineering through hands-on practice.
 
-🔗 Repository: https://github.com/minahilmuqadus/python-mini-projects
+Projects include:
+- Student Grade Analyzer
+- Additional Python practice projects
+- More projects coming soon...
 
+🔗 Repository:  
+https://github.com/minahilmuqadus/python-mini-projects
 
+---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/minahil-muqadus
-- 📧 Email: minahilmuqadus7@gmail.com
+💼 LinkedIn:  
+https://www.linkedin.com/in/minahil-muqadus
 
-I'm always open to connecting with fellow learners, students, and professionals who are passionate about technology, Artificial Intelligence, and Software Engineering.
+📧 Email:  
+minahilmuqadus7@gmail.com
 
 ---
 
-⭐ Thanks for visiting my profile! I'm continuously learning, building, and improving one project at a time.
+⭐ Thanks for visiting my profile!
+
+I'm continuously learning, building, documenting my progress, and improving one project at a time.
